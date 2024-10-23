@@ -1,9 +1,12 @@
 # Paul Mauricio Realpe Guerrero
 
 paulmrg461@gmail.com  
-**GitHub:** [paulmrg-461](https://github.com/paulmrg-461) 
+**GitHub:** [paulmrg-461](https://github.com/paulmrg-461)
+
 **LinkedIn:** [paul-realpe-631b17a6](https://www.linkedin.com/in/paul-realpe-631b17a6) 
+
 **Portfolio:** [devpaul.pro](https://devpaul.pro) 
+
 ---
 
 ## Career Summary
