@@ -30,20 +30,71 @@ I am a Systems Engineer with over 5 years of experience specializing in **web an
 
 ## Professional Experience
 
-### **Fullstack Developer** | IA-Aplicada SAS | Feb 2021 - Present
-- Developed and maintained mobile and web applications using **Flutter** and **web frameworks** such as **Angular**, **Svelte** and **ReactJS**.
-- Integrated **REST APIs**, **GraphQL**, and **Hasura** for real-time data processing in **FastAPI** and **NodeJS** environments.
-- Worked with **PostgreSQL**, **MS SQL**, **Firestore**, and **MongoDB** databases for scalable data management solutions.
-- Used **GoLang** for a video surveillance system, implementing low-latency real-time video streaming services and managing playbacks.
-- Applied **BLoC** for state management and **SOLID** principles to ensure high-quality, scalable solutions.
+### IA-Aplicada SAS | Bogota, Colombia
+**Fullstack Developer**  
+Projects: GxC, Grupo Logístico Talencoop, Mi Mundo Tigo, Consorcio Express, Levapan Forecast and TradeMarketing, Black and Blue SIG Systems.  
+**Feb 2021 – Present**
 
-### **Mobile Developer Lead** | Singularity (USA) | Nov 2022 - Present
-- Led the development of the **Begloom Deliveries** app, using **Flutter**, **Hasura GraphQL**, and **ReactJS** for web and mobile platforms.
-- Managed real-time data handling using **WebSockets** and backend services in **NodeJS**, **GoLang**, and **MySQL**.
+**Responsibilities:**
+- Designed and developed scalable web and mobile applications using **Flutter**, **Angular**, and **ReactJS**, tailored to meet diverse business needs across industries.
+- Created robust backend services with **GoLang**, integrating **low-latency real-time video streams** and playback systems.
+- Implemented **REST APIs** and **GraphQL** with **Hasura**, optimizing real-time data processing and API interactions.
+- Managed state efficiently using **BLoC** and adhered to **SOLID** principles, ensuring clean architecture and maintainable code.
+- Leveraged **Firebase** and **AWS** for authentication, data storage, and cloud functions, ensuring secure and performant applications.
 
-### **Systems Manager** | Grupo Empresarial G&H SAS | Feb 2018 - Nov 2020
-- Led web and mobile development efforts, focusing on **Angular**, **Vue.js**, and **Kotlin** for Android applications.
-- Utilized **Firebase** and **AWS** for backend services, including **authentication**, **push notifications**, and **real-time databases**.
+**Tools/Technologies:** GoLang, Flutter, Angular, ReactJS, GraphQL, Hasura, REST APIs, BLoC, PostgreSQL, Firestore, MongoDB, AWS, Firebase.
+
+---
+
+### Singularity | Remote
+**Mobile Developer Lead**  
+Project: Begloom Deliveries  
+**Nov 2022 – Apr 2024**
+
+**Responsibilities:**
+- Led the development of **Flutter** and **Hasura**-based mobile and web platforms.
+- Implemented **WebSockets** and real-time data features for delivery tracking.
+- Coordinated between frontend and backend teams to ensure seamless API integrations.
+
+**Tools/Technologies:** Flutter, Hasura, NodeJS, WebSockets, FastAPI, GraphQL, PostgresSQL.
+
+---
+
+### Grupo Empresarial G&H SAS | Popayán, Colombia
+**Systems Manager**  
+Project: Internal Software Solutions for Supermarket  
+**Feb 2018 – Nov 2020**
+
+**Responsibilities:**
+- Led the development of web and mobile solutions, including an **Android Kotlin** app and a web platform using **HTML**, **CSS**, and **JavaScript**.
+- Integrated plugins for **WorldOffice** software, enhancing the supermarket's inventory and sales systems.
+
+**Tools/Technologies:** Kotlin, HTML, CSS, JavaScript, C#.
+
+---
+
+### Grupo Vista SAS | Freelance
+**Fullstack Developer**  
+Project: Vista App
+
+**Aug 2021 – July 2022**
+
+**Responsibilities:**
+- Developed mobile and web application using **Flutter** and **ReactJS** for frontend and **Firebase** & **NodeJS** for backend.
+- Integrated **Firebase** for authentication, data storage, and cloud functions.
+- Published the app in **Google Play Store**.
+
+---
+
+### Gitcam Promotores & Consultores SAS | Popayán, Colombia
+**Android Java Developer**  
+Project: Noticom  
+**Feb 2017 – Aug 2017**
+
+**Responsibilities:**
+- Developed the **Noticom** Android application using **Java**.
+
+**Tools/Technologies:** Android (Java), Git, SQL.
 
 ---
 
@@ -71,17 +122,3 @@ Popayán, Cauca, Colombia
 - **English:** B1 (Intermediate)
 
 ---
-
-## References
-
-- **Andrés Felipe Bravo**  
-  Data Scientist - IA Aplicada SAS  
-  afbravo.p5@gmail.com | 3014312013
-
-- **Franco Jhonny Muñoz**  
-  Physical Engineer - CDA Cauca  
-  jhonny5@gmail.com | 3148799033
-
-- **Rafael Alejandro Belalcázar Burbano**  
-  Web Developer, Data Scientist - Numa Labs  
-  rafabeldev@gmail.com | 3214153856
